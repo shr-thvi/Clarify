@@ -1,6 +1,0 @@
-{
-  "name": "Clarify",
-  "description": "An AI-powered EdTech web application that transforms ambiguous, grammatically incorrect, or Hinglish student doubts into clear, formal, and search-optimized academic queries alongside subject tagging, follow-ups, and step-by-step solutions.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
